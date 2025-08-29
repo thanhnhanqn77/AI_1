@@ -1,0 +1,10 @@
+names:
+- Soup
+nc: 1
+test: TestImages
+train:
+- generate-data/Output_1/train/images
+- generate-data/Output_2/train/images
+val:
+- generate-data/Output_1/val/images
+- generate-data/Output_2/val/images
